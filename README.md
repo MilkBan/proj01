@@ -1,2 +1,2 @@
 # proj01
-AI project
+This is a AI project
